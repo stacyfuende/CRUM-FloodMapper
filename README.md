@@ -1,26 +1,26 @@
 # Overview
-This project, CRUM-FloodMapper, is designed to provide efficient and effective mapping of flood-prone areas using interactive workflows.
+This project provides tools for analyzing and visualizing flood data.
 
 # What This Workflow Does
-The workflow utilizes various data sources and algorithms to assess flood risk and produce detailed maps that aid in urban planning and disaster management.
+The workflow automates the process of retrieving, processing, and presenting flood data through a user-friendly interface.
 
 # Interactive App
-Users can access an interactive application that allows for real-time analysis and visualization of flood data. This feature enhances usability and aids in decision-making.
+An interactive application is provided to visualize flood data, allowing users to explore various scenarios and outputs.
 
 # Data Sources
-The application leverages multiple data sources such as satellite imagery, hydrological models, and historical flood data to provide a robust analysis.
+Data is sourced from governmental and international agencies that monitor flood occurrences and reports.
 
 # Outputs
-Outputs include visually informative maps, data reports, and risk assessments that can be utilized by governmental and non-governmental organizations.
+The workflow produces visualizations and reports based on the analyzed data.
 
 # Limitations
-This workflow is subject to the availability and accuracy of input data. Additionally, unforeseen weather conditions may affect flood predictions.
+Some limitations include data accuracy and availability depending on the sources.
 
 # Further Reading
-For more information on related topics, visit [Medium](https://medium.com/) for articles and insights.
+For more details, you may refer to the [Medium article](https://medium.com/example-article).
 
 # Contact
-For inquiries, reach out to our team at [email@example.com].
+For queries, reach out to support@example.com.
 
 # License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
