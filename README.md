@@ -20,7 +20,7 @@ CRUM FloodMapper takes the raw SAR flood detections and:
 
 The result is an intuitive, high‑resolution picture of flood exposure in Nairobi.
 
-## Interactive App
+## Interactive App[STILL NOT IMPLEMENTED]
 An interactive app is included so users can:
 
 - adjust the flood‑detection filters
