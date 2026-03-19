@@ -37,21 +37,6 @@ This makes the analysis hands‑on, transparent, and adaptable for different pla
 - **OpenStreetMap** — road networks
 - **GADM Level 2 boundaries** — administrative areas
 
-## Repository Structure
-```
-crum-floodmapper/
-├── data/
-│   └── outputs/
-│       └── rings_of_risk_nairobi.png
-├── R/
-│   ├── filtering.R
-│   ├── recurrence_grid.R
-│   ├── kde_model.R
-│   ├── exposure_analysis.R
-│   └── map_visualisation.R
-└── README.md
-```
-
 ## Outputs
 
 - Flood recurrence "rings of risk" map
