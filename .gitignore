@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.hdf5
+*.nc
+data/raw_data/*.tif
+data/raw_data/*.parquet
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+Thumbs.db
