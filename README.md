@@ -1,29 +1,9 @@
-# Climate Resilient Urban Mobility (CRUM_Nairobi)
-Description
-Analyzes climate hazards and their impact on urban transportation systems in Nairobi.
+# CRUM FloodMapper
 
-## Data Collection
-Multiple data sources to be used include:
+CRUM FloodMapper is an innovative tool designed for flood mapping and analysis. It provides users with insights into flood risks and management strategies based on comprehensive data analysis.
 
-- Cimate and Hazard Data
+![Rings of Risk](data/outputs/rings_of_risk_nairobi.png)
 
-- Transport Network Data
+The tool leverages state-of-the-art algorithms to assess flood risks associated with various parameters, ensuring accurate and reliable outcomes for urban planners and disaster managers.
 
-- Socioeconomic and Demographic Data
-
-- Land Use and Land Cover Data
-
-All datasets will be stored in the raw_data/ folder in their original form.
-
-## Requirements
-R ≥ 4.0 (tidyverse, sf, ggplot2)
-
-Python ≥ 3.9 (pandas, geopandas, matplotlib
-
-## Contact
-Stacy Mwangi
-
-Email: stacyfuende@gmail.com
-
-## License
-Educational use only.
+For further information and usage guidelines, please refer to the documentation.
